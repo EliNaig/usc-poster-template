@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/usc-seal.png" alt="University of South Carolina seal" width="120">
-
 # Unofficial University of South Carolina Research Poster Template
 
 ![University of South Carolina](https://img.shields.io/badge/University%20of%20South%20Carolina-73000A?style=flat-square&logoColor=white)
