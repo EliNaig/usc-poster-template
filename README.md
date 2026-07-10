@@ -53,6 +53,10 @@ latexmk poster.tex
 Upload the repo ZIP as a new project and set the compiler to **LuaLaTeX**.
 This GitHub repo is the canonical version.
 
+**Warning:** this takes a while to compile and may fail on Overleaf's free
+tier with a compile timeout. If it does, keep hitting recompile until it
+goes through.
+
 ## Customizing
 
 - **Title, authors, footer:** top of `poster.tex`.
